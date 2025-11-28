@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Nijiima
-- 👀 I’m interested in learn about schedule
-- 🌱 I’m currently learning Java Script
+## Olá! Seja Bem-Vindo!
+
+⭐Eu me chamo Jay.
+💻 Por curiosidade, decidi aprender progração.
+🌱 Atualmente estou aprendendo Python.
 
 
 <!---
